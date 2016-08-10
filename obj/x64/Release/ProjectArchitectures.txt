@@ -1,0 +1,1 @@
+D:\Downloads\iotgenbluetoothserialuw_V1.2\ControlBrazoBluetooth\Control Brazo Bluetooth.csproj;x64

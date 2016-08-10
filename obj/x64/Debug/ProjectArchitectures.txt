@@ -1,0 +1,1 @@
+C:\Users\jon_u\Documents\GitHub\ControlBrazoBluetooth\Control Brazo Bluetooth.csproj;x64

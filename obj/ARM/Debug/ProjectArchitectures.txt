@@ -1,0 +1,1 @@
+C:\Users\jon_u\Downloads\iotgenbluetoothserialuw_V1.2\GenericBluetoothSerialUWApp\GenericBluetoothSerialUWApp.csproj;arm
